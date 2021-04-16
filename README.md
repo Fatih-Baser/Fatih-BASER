@@ -6,9 +6,8 @@
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
   <br>
-   <img src=" 
-  https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" alt="png" width="500">
- 
+   <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" alt="Coder GIF" width="200">
+  <br>
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
