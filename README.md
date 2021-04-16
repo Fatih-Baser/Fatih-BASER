@@ -1,8 +1,8 @@
 <h2 align="left">
  <abc>
   <br>Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Üneys Ahmet Alkış<br>
-  <br> I'm a Front End Web Developer<br>
+  <br> I'm Selahattin Fatih BASER <br>
+  <br> I'm a ANDROID Developer<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
@@ -34,7 +34,7 @@
 
 <h2 align="left">Let's get connected:</h2>
 
-<a target="_blank" href="https://www.linkedin.com/in/üneys-ahmet-alkış-9a7a281a3/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="www.linkedin.com/in/fatih-baser-0246651a4"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 
 
 
