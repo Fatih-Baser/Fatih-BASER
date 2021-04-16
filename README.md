@@ -5,8 +5,9 @@
   <br> I'm a ANDROID Developer<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+  <br>
    <img src=" 
-  https://github.com/Fatih-Baser/KotlinWorkManager/blob/master/app/src/main/res/drawable/android.PNG" alt="png" width="500">
+  https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" alt="png" width="500">
  
  </abc>
 </h2> 
