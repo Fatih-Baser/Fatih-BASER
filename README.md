@@ -11,7 +11,7 @@
 <p align="left">
     <a href="https://developer.android.com/kotlin?gclid=Cj0KCQjw6-SDBhCMARIsAGbI7Uj9S4GDNDiWK04Gr8AJlO5TdxuF9NDOmbIm0hj4Ybo98op01sZ6cVEaAtHfEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://deviniti.com/wp-content/uploads/2019/02/kotlin-logo.png" alt="html5" width="100" height="60"/> </a>
     <a href="https://www.android.com/" target="_blank"> <img src="https://sliceofweb.files.wordpress.com/2012/09/android-logo-white.png" alt="css3" width="60" height="60"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="javascript" width="60" height="60"/> </a>
+    <a href="https://www.java.com/tr/" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="javascript" width="60" height="60"/> </a>
     <a href="https://www.flaticon.com/free-icon/c-logo_74906" target="_blank" img src="">
     </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
