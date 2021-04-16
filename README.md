@@ -14,12 +14,8 @@
     <a href="https://www.java.com/tr/" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" width="60" height="60"/> </a>
     <a href="https://www.flaticon.com/free-icon/c-logo_74906" target="_blank" img src="">
     </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://pngimage.net/wp-content/uploads/2018/05/android-sdk-png-%E8%A1%A8%E7%A4%BA-1.png" alt="Jetpack" width="140" height="80"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icon/vscode.png" /></a>
-
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://developer.android.com/jetpack" target="_blank"> <img src="https://pngimage.net/wp-content/uploads/2018/05/android-sdk-png-%E8%A1%A8%E7%A4%BA-1.png" alt="Jetpack" width="140" height="60"/> </a>
+     
 
 </p>
 
