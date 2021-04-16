@@ -5,7 +5,7 @@
   <br> I'm a ANDROID Developer<br>
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-  <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" alt="Coder GIF" width="380">
+  <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" alt="Coder GIF" width="370">
   <br>
    
   
