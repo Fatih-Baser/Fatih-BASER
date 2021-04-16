@@ -9,7 +9,7 @@
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://deviniti.com/wp-content/uploads/2019/02/kotlin-logo.png" alt="html5" width="100" height="40"/> </a>
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://deviniti.com/wp-content/uploads/2019/02/kotlin-logo.png" alt="html5" width="80" height="40"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://www.flaticon.com/free-icon/c-logo_74906" target="_blank" img src="">
