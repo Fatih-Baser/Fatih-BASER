@@ -3,8 +3,8 @@
 <p align="left">
 <h2 align="left">
  <abc>
-  <br>Hi <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-     <a href="#Fatih BASER STATES-title">
+
+  <a href="#Fatih BASER STATES-title">
   <img src="https://github-readme-stats.vercel.app/api?username=Fatih-BASER&show_icons=true&count_private=true&include_all_commits=true" alt="kaaneneskpc" align="right" />
 </a>
 
