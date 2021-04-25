@@ -49,12 +49,7 @@
       </a>
       <br>Java
     </td>
-    <td align="center" width="96">
-      <a href="#kaaneneskpc-tech">
-        <img src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" width="48" height="48" alt="Flutter" />
-      </a>
-      <br>Flutter
-    </td>
+    
    
        
   </tr>
