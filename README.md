@@ -8,8 +8,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Fatih-BASER&show_icons=true&count_private=true&include_all_commits=true" alt="kaaneneskpc" align="right" />
 </a>
 
-    <a href="https://github.com/Fatih-Baser/">
-    <img src="https://komarev.com/ghpvc/?username=Fatih-BASER" alt="page views" />
+ <a href="https://github.com/Fatih-Baser/">
+ <img src="https://komarev.com/ghpvc/?username=Fatih-BASER" alt="page views" />
   </a>
  
   <br>
