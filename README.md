@@ -4,7 +4,7 @@
 <h2 align="left">
 
  <a href="https://github.com/Fatih-Baser/">
- <img src="https://komarev.com/ghpvc/?username=Fatih-BASER" alt="page views" width="80" />
+ <img src="https://komarev.com/ghpvc/?username=Fatih-BASER" alt="page views" width="200" />
   </a>
  
 
