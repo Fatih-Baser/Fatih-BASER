@@ -2,7 +2,7 @@
 <h1 align="left" id="kaaneneskpc-title">:wave: Hello there! I'm Fatih BASER , I'm Android Developer</h1>
 <p align="left">
 <h2 align="left">
- <abc>
+ 
 
   <a href="#Fatih BASER STATES-title">
   <img src="https://github-readme-stats.vercel.app/api?username=Fatih-BASER&show_icons=true&count_private=true&include_all_commits=true" alt="kaaneneskpc" align="right" />
