@@ -40,14 +40,14 @@
     </td>
     <td align="center" width="96">
       <a href="#kaaneneskpc-tech">
-        <img src="https://github.com/Fatih-Baser/KotlinCountryList/blob/master/app/src/main/res/drawable-v24/java.png" width="48" height="48" alt="Jetpack" />
+        <img src="https://github.com/Fatih-Baser/KotlinCountryList/blob/master/app/src/main/res/drawable-v24/java.png" width="48" height="48" alt="Java" />
       </a>
       <br>Jetpack
     </td>
     <td align="center" width="96">
       <a href="#kaaneneskpc-tech">
-        <img src="https://github.com/Fatih-Baser/KotlinCountryList/blob/master/app/src/main/res/drawable-v24/jetpack.png" width="48" height="48" alt="Java" />
-      </a>
+        <img src="https://github.com/Fatih-Baser/KotlinCountryList/blob/master/app/src/main/res/drawable-v24/jetpack.png" width="48" height="48" alt="Jetpack" />
+      </a>Cancel changes
       <br>Java
     </td>
     
