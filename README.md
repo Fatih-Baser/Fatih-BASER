@@ -21,16 +21,55 @@
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
-    <a href="https://developer.android.com/kotlin?gclid=Cj0KCQjw6-SDBhCMARIsAGbI7Uj9S4GDNDiWK04Gr8AJlO5TdxuF9NDOmbIm0hj4Ybo98op01sZ6cVEaAtHfEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://deviniti.com/wp-content/uploads/2019/02/kotlin-logo.png" alt="Kotlin" width="100" height="60"/> </a>
-    <a href="https://www.android.com/" target="_blank"> <img src="https://sliceofweb.files.wordpress.com/2012/09/android-logo-white.png" alt="Android" width="60" height="60"/> </a>
-    <a href="https://www.java.com/tr/" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png" alt="Java" width="60" height="60"/> </a>
-    <a href="https://www.flaticon.com/free-icon/c-logo_74906" target="_blank" img src="">
-    </a>
-<a href="https://developer.android.com/jetpack" target="_blank"> <img src="https://pngimage.net/wp-content/uploads/2018/05/android-sdk-png-%E8%A1%A8%E7%A4%BA-1.png" alt="Jetpack" width="140" height="60"/> </a>
-     
+> Tools - Languages - Libraries
 
-</p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#kaaneneskpc-tech">
+        <img src="https://avatars.githubusercontent.com/u/32689599?s=200&v=4" width="48" height="48" alt="Android" />
+      </a>
+      <br>Android
+    </td>
+    <td align="center" width="96">
+      <a href="#kaaneneskpc-tech">
+        <img src="https://avatars.githubusercontent.com/u/1446536?s=200&v=4" width="48" height="48" alt="Kotlin" />
+      </a>
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <a href="#kaaneneskpc-tech">
+        <img src="./img/jetpack.png" width="48" height="48" alt="Jetpack" />
+      </a>
+      <br>Jetpack
+    </td>
+    <td align="center" width="96">
+      <a href="#kaaneneskpc-tech">
+        <img src="./img/java.png" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <a href="#kaaneneskpc-tech">
+        <img src="https://avatars.githubusercontent.com/u/14101776?s=200&v=4" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#kaaneneskpc-tech" >
+        <img src="./img/react-original.svg" width="48" height="48" alt="ReactJS" />
+      </a>
+      <br>ReactJS
+    </td>
+        <td align="center" width="96"> 
+      <a href="#kaaneneskpc-tech" >
+        <img src="./img/angular.png" width="48" height="48" alt="AngularJS" />
+      </a>
+      <br>AngularJS
+    </td>
+       
+  </tr>
+</table>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
