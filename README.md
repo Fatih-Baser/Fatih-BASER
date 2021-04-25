@@ -6,6 +6,9 @@
 </a>
   <br> I'm Selahattin Fatih BASER <br>
   <br> I'm a ANDROID Developer<br>
+    <a href="https://github.com/Fatih-Baser/">
+    <img src="https://komarev.com/ghpvc/?username=Fatih-BASER" alt="page views" />
+  </a>
  
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
