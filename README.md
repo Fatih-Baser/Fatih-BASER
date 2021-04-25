@@ -8,7 +8,9 @@
   <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" alt="Coder GIF" width="275">
   <br>
    
-  
+  <a href="#kaaneneskpc-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fatih-BASER&show_icons=true&count_private=true&include_all_commits=true" alt="kaaneneskpc" align="right" />
+</a>
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
