@@ -2,9 +2,7 @@
 <h1 align="left" id="kaaneneskpc-title">:wave: Hello there! I'm Fatih BASER , I'm Android Developer</h1>
 <p align="left">
 <h2 align="left">
-  <a href="https://github.com/Fatih-Baser/">
- <img src="https://komarev.com/ghpvc/?username=Fatih-BASER" alt="page views" />
-  </a>
+
 
   <a href="#Fatih BASER STATES-title">
   <img src="https://github-readme-stats.vercel.app/api?username=Fatih-BASER&show_icons=true&count_private=true&include_all_commits=true" alt="kaaneneskpc" align="right" />
@@ -23,6 +21,9 @@
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 > Tools - Languages - Libraries
 
+  <a href="https://github.com/Fatih-Baser/">
+ <img src="https://komarev.com/ghpvc/?username=Fatih-BASER" alt="page views" />
+  </a>
 <table>
   <tr>
     <td align="center" width="96">
