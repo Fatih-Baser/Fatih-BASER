@@ -21,9 +21,7 @@
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 > Tools - Languages - Libraries
 
-  <a href="https://github.com/Fatih-Baser/">
- <img src="https://komarev.com/ghpvc/?username=Fatih-BASER" alt="page views" />
-  </a>
+
 <table>
   <tr>
     <td align="center" width="96">
@@ -54,6 +52,9 @@
    
        
   </tr>
+    <a href="https://github.com/Fatih-Baser/">
+ <img src="https://komarev.com/ghpvc/?username=Fatih-BASER" alt="page views" />
+  </a>
 </table>
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
