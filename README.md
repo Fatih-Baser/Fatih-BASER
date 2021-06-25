@@ -13,7 +13,7 @@
   <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="320">
      <a href="#Fatih BASER STATES-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatih-BASER&show_icons=true&count_private=true&include_all_commits=true" alt="fatih" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fatih-BASER&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" alt="fatih" align="right" />
 </a>
   <br>
    
@@ -61,6 +61,10 @@
 ## Trophy showcase!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Fatih-Baser&theme=onedark&margin-w=15&margin-h=15)](https://github.com/Fatih-Baser)
+
+
+<a href="https://github.com/Fatih-Baser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatih-Baser&theme=dracula&layout=compact" />
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
