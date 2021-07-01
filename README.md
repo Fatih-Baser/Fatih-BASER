@@ -1,5 +1,5 @@
 
-<h1 align="left" id="kaaneneskpc-title">:wave: Hello there! I'm Fatih BASER , I'm Android Developer</h1>
+<h1 align="left" id="kaaneneskpc-title">:wave: Hello there! I'm Fatih BASER , I'm a Android Developer</h1>
 <p align="left">
 <h2 align="left">
 
