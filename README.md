@@ -58,12 +58,12 @@
       <a href="#Fatih Baser">
         <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' />
        </a>
-        <br>React
+        <br>Javva Script
       <td align="center" width="96">
       <a href="#Fatih Baser">
        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
       </a>
-      <br>nodejs
+      <br>Node JS
        
        
        
