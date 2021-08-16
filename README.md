@@ -49,6 +49,17 @@
         <img src="https://github.com/Fatih-Baser/KotlinCountryList/blob/master/app/src/main/res/drawable-v24/jetpack.png" width="48" height="48" alt="Jetpack" />
       </a>
       <br>Jetpack
+     <td align="center" width="96">
+      <a href="#kaaneneskpc-tech">
+        <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' width="48" height="48" alt="Jetpack" />
+      </a>
+      <br>React
+      <td align="center" width="96">
+      <a href="#kaaneneskpc-tech">
+        <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' />
+      </a>
+      <br>JavaScript
+     
       <br>
     </td>
     
