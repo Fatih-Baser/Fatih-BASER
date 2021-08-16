@@ -27,35 +27,35 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#kaaneneskpc-tech">
+      <a href="#Fatih Baser">
         <img src="https://avatars.githubusercontent.com/u/32689599?s=200&v=4" width="48" height="48" alt="Android" />
       </a>
       <br>Android
     </td>
     <td align="center" width="96">
-      <a href="#kaaneneskpc-tech">
+     <a href="#Fatih Baser">
         <img src="https://avatars.githubusercontent.com/u/1446536?s=200&v=4" width="48" height="48" alt="Kotlin" />
       </a>
       <br>Kotlin
     </td>
     <td align="center" width="96">
-      <a href="#kaaneneskpc-tech">
+    <a href="#Fatih Baser">
         <img src="https://github.com/Fatih-Baser/KotlinCountryList/blob/master/app/src/main/res/drawable-v24/java.png" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
     <td align="center" width="96">
-      <a href="#kaaneneskpc-tech">
+     <a href="#Fatih Baser">
         <img src="https://github.com/Fatih-Baser/KotlinCountryList/blob/master/app/src/main/res/drawable-v24/jetpack.png" width="48" height="48" alt="Jetpack" />
       </a>
       <br>Jetpack
      <td align="center" width="96">
-      <a href="#kaaneneskpc-tech">
+      <<a href="#Fatih Baser">
         <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' width="48" height="48" alt="Jetpack" />
       </a>
       <br>React
       <td align="center" width="96">
-      <a href="#kaaneneskpc-tech">
+      <a href="#Fatih Baser">
         <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' />
       </a>
       <br>JavaScript
