@@ -59,12 +59,6 @@
         <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' />
       </a>
       <br>JavaScript
-     
-      <br>
-    </td>
-    
-   
-       
   </tr>
 
 </table>
