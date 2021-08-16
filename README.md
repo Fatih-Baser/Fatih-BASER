@@ -50,7 +50,7 @@
       </a>
       <br>Jetpack
      <td align="center" width="96">
-      <<a href="#Fatih Baser">
+      <a href="#Fatih Baser">
         <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg' width="48" height="48" alt="Jetpack" />
       </a>
       <br>React
