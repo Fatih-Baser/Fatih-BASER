@@ -57,9 +57,17 @@
       <td align="center" width="96">
       <a href="#Fatih Baser">
         <img src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg' />
+       </a>
+        <br>React
+      <td align="center" width="96">
+      <a href="#Fatih Baser">
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"/>
       </a>
-      <br>JavaScript
-  </tr>
+      <br>nodejs
+       
+       
+       
+       
 
 </table>
 
