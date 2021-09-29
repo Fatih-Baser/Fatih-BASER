@@ -68,7 +68,6 @@
        
        
        
-
 </table>
 
 ## Trophy showcase!
