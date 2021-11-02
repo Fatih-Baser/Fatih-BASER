@@ -11,9 +11,9 @@
 
  
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="320">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="310">
      <a href="#Fatih BASER STATES-title">
-   <img src="https://github-readme-stats.vercel.app/api?username=Fatih-BASER&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" 
+   <img src="https://github-readme-stats.vercel.app/api?username=Fatih-BASER&show_icons=true&count_private=true&include_all_commits=true" 
   <img src="h" alt="fatih" align="right" />
 </a>
   <br>
