@@ -93,6 +93,4 @@
 <a target="_blank" href="https://www.linkedin.com/in/fatih-baser-0246651a4/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"    width="200"></img>     </a>
 
 
-![snake svg](https://github.com/Fatih-Baser
-/Fatih-Baser
-/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/Fatih-Baser/Fatih-Baser/blob/output/github-contribution-grid-snake.svg)
