@@ -3,7 +3,6 @@
 <p align="left">
 <h2 align="left">
 
- <a href="https://github.com/Fatih-Baser/">
  <img src="https://komarev.com/ghpvc/?username=Fatih-BASER" alt="page views" width="200" />
   </a>
  
@@ -71,13 +70,7 @@
        
 </table>
 
-## Trophy showcase!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fatih-Baser&theme=onedark&margin-w=15&margin-h=15)](https://github.com/Fatih-Baser)
-
-
-<a href="https://github.com/Fatih-Baser">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatih-Baser&theme=dracula&layout=compact" />
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
